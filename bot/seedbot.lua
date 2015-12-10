@@ -219,28 +219,27 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {172767635,176229065,126261988,154020796,},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {59128985},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[Larabot v3.5
+An advance Administration bot based on Telegram-CLI written in lua
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@rastin44[Founder]
+@alpha08 [Developer]
+@stargroupbot&@adrin436 [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+my team to help 
+createing bot Lara 
+;)
+
+
 
 Our channels
-@teleseedch [English]
+@Iranlara[persian]
 ]],
     help_text = [[
 Commands list :
