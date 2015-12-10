@@ -223,7 +223,7 @@ function create_config( )
     disabled_channels = {},
     realm = {59128985},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Larabot v3.5
+    about_text = [[Telelara v3.5
 An advance Administration bot based on Telegram-CLI written in lua
 
 Admins
