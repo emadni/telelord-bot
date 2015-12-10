@@ -219,9 +219,9 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {172767635,176229065,126261988,154020796,},--Sudo users
+    sudo_users = {54213663,160553465},--Sudo users
     disabled_channels = {},
-    realm = {59128985},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Telelara v3.5
 An advance Administration bot based on Telegram-CLI written in lua
