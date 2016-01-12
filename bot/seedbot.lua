@@ -221,7 +221,7 @@ function create_config( )
     },
     sudo_users = {105652025},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {69284261},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Telelara v3.5
 An advance Administration bot based on Telegram-CLI written in lua
